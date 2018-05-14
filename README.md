@@ -3,10 +3,10 @@
 This app allows users to create an list of employees with name, phone number and which day of the week they are working. Users can create new employees, edit/delete existing employees, as well as text anyone on the list.
 
 This was practice in:
-React Native - Custom Components
-Redux - Actions and Reducers
-React Native Router Flux
-Firebase API
+* React Native - Custom Components
+* Redux - Actions and Reducers
+* React Native Router Flux
+* Firebase API
 
 This was based on a project lecture from Stephen Grider's Complete React Native and Redux Course Udemy course.
 
